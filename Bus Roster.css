@@ -1,0 +1,82 @@
+
+body {
+  background-color: none; /* #e6ffff; light blue*/
+}
+
+div.rosterV2 {
+    background-color: none; /*#ebf3f9;*/
+    padding: none;
+    border: 1px solid #ebf3f9;
+    border-radius: 0px 0px 12px 12px;
+    border-top-style: none;
+    border-bottom-style: none;
+}
+
+div.rosterSummary {
+  background-color: #ebf3f9;
+  font-family: verdana;
+  padding: 13px;
+}
+
+table {
+    border-collapse: ;
+    width: 100%;
+    background-color: #ebf3f9;
+    font-family: verdana;
+}
+
+th {
+  background-color: #003366;
+  color: #ffffe6; /* light yellow */
+  font-weight: normal;
+}
+
+td {
+    /*border: 1px solid black;*/
+    text-align: center;
+    background-color: #ebf3f9;
+}
+
+#pick40 {background-color:#ebf3f9; }
+
+#pick {
+    font-weight: normal;
+    background-color: white;
+    border: 1px solid black;
+    padding: 1px 5px;
+    border-radius: 8px;
+  }
+
+#pick {
+  display: inline-block;
+  float: right;
+  font-family: verdana;
+  /*font-size: 22px;*/
+}
+
+#daysOff {
+  display: block;
+/*  color: #990033;/*maroon-ish*/
+  font-family: verdana;
+/*  font-size: 20px;
+  margin-bottom: 5px;*/
+}
+
+#weeklyPay {
+  display: block;
+/*  color: black;*/
+  font-family: verdana;
+ /* font-size: 20px;*/
+}
+
+#weeklyPayHours {
+  display: inline-block;
+  padding: 0px 4px;
+/*  float: ;
+  color: green;
+  font-family: verdana;
+  font-size: 20px;*/
+}
+
+
+
